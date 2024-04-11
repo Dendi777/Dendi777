@@ -12,7 +12,7 @@
 
 <picture>
   <source
-    srcset="https://github-profile-trophy.vercel.app/?username=Dendi777&theme=onedark"
+    srcset="https://github-profile-trophy.vercel.app/?username=Dendi777&theme=juicyfresh"
     media="(prefers-color-scheme: dark)"
   />
   <source
