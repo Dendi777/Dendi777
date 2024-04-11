@@ -12,11 +12,11 @@
 
 <picture>
   <source
-    srcset="https://github-profile-trophy.vercel.app/?username=Dendi777&theme=dark"
+    srcset="https://github-profile-trophy.vercel.app/?username=Dendi777&theme=onedark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-profile-trophy.vercel.app/?username=Dendi777&theme=light"
+    srcset="https://github-profile-trophy.vercel.app/?username=Dendi777&theme=flat"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-profile-trophy.vercel.app/?username=Dendi777" />
