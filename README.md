@@ -1,8 +1,4 @@
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=true&width=435&lines=Do+you+think+we+are+alone+in+this+world%3F;Hello+world;Rust+or+C%3F" alt="Typing SVG" /></a>
-</h1>
-
-<h1 align="center">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=Dendi777&show_icons=true&theme=dark"
