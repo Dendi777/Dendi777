@@ -19,5 +19,5 @@
     srcset="https://github-profile-trophy.vercel.app/?username=Dendi777&theme=light"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-profile-trophy.vercel.app/?username=Dendi777&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dendi777" />
 </picture>
