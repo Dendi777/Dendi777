@@ -25,8 +25,5 @@
 </h1>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dendi777&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/Dendi777/Dendi777/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Dendi777/Dendi777/output/github-contribution-grid-snake.svg#gh-light-mode-only)
