@@ -21,9 +21,9 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 <h1 align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Dendi777&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=holmberg-15A&show_icons=true&theme=github_dark" />
 </h1>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dendi777&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Holmberg-15A&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Dendi777/Dendi777/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Dendi777/Dendi777/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Holmberg-15A/Holmberg-15A/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Holmberg-15A/Holmberg-15A/output/github-contribution-grid-snake.svg#gh-light-mode-only)
