@@ -21,7 +21,10 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 <h1 align="center">
-  <picture> 
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    />
     <img src="https://github-readme-stats.vercel.app/api?username=Dendi777&show_icons=true" />
   </picture>
 </h1>
