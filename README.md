@@ -29,3 +29,5 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Dendi777/Dendi777/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Dendi777/Dendi777/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 [![teuchezh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dendi777&count_private=true&show_icons=true&theme=buefy)](https://github.com/Dendi777)
+[![teuchezh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dendi777&layout=compact&theme=buefy)](https://github.com/Dendi777)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dendi777&layout=compact&theme=buefy)](https://github.com/Dendi777)
