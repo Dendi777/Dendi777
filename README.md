@@ -36,3 +36,5 @@
   />
   <img src="https://github-profile-trophy.vercel.app/?username=Dendi777" />
 </picture>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dendi777&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
