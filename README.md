@@ -1,3 +1,4 @@
+https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 <h1 align="center">
   <picture>
     <source
