@@ -22,19 +22,8 @@
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Dendi777&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Dendi777&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dendi777)](https://github.com/ryo-ma/github-profile-trophy&raw=2&column=3)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dendi777&langs_count=8)
 
-<picture>
-  <source
-    srcset="https://github-profile-trophy.vercel.app/?username=Dendi777&theme=juicyfresh"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-profile-trophy.vercel.app/?username=Dendi777&theme=oldie"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-profile-trophy.vercel.app/?username=Dendi777" />
-</picture>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dendi777&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dendi777&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
