@@ -27,3 +27,5 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dendi777&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Dendi777/Dendi777/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Dendi777/Dendi777/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+[![teuchezh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dendi777&count_private=true&show_icons=true&theme=buefy)](https://github.com/Dendi777)
