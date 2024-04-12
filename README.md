@@ -22,8 +22,9 @@
 
 <h1 align="center">
   <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Dendi777&show_icons=true&theme=dark" 
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=Dendi777&show_icons=true&theme=dark"
+    />
     <img src="https://github-readme-stats.vercel.app/api?username=Dendi777&show_icons=true" />
   </picture>
 </h1>
