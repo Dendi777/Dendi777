@@ -34,6 +34,8 @@
   </picture>
 </h1>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dendi777&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <picture>
   <source
     srcset="https://github-profile-trophy.vercel.app/?username=Dendi777&theme=juicyfresh"
