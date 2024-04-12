@@ -1,4 +1,5 @@
 name: go go go fuck
+on: ["push"]
 jobs:
   snake:
     runs-on: ubuntu-latest
