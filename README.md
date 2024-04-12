@@ -20,12 +20,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dendi777" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=Dendi777&layout=compact&langs_count=8" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dendi777&langs_count=8)
 
 <picture>
   <source
