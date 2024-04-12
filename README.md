@@ -27,5 +27,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dendi777&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <h1 align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Dendi777&title=Commits,Issues,Repositories,Stars,PullRequest,Followers&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+  <source
+    [![trophy](https://github-profile-trophy.vercel.app/?username=Dendi777&title=Commits,Issues,Repositories,Stars,PullRequest,Followers&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+  />
 </h1>
